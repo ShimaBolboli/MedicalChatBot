@@ -39,6 +39,6 @@ This chatbot is for demonstration purposes only and should not be used as a subs
 
 
 <h2>YouTube Video Link</h2>
--------------------------------------------
+
 https://youtu.be/kGo0mV0HzhY
---------------------------------------------
+
