@@ -36,3 +36,9 @@ To run this application locally, follow these steps:
 
 
 This chatbot is for demonstration purposes only and should not be used as a substitute for professional medical advice. Always consult a qualified healthcare provider for medical guidance.
+
+
+<h2>YouTube Video Link</h2>
+-------------------------------------------
+https://youtu.be/kGo0mV0HzhY
+--------------------------------------------
