@@ -5,6 +5,7 @@ The chatbot is powered by the Ollama API.
 
 <h2>Usage</h2>
 1. Ask Your Medical-Related Question: Enter your medical-related question in the text input field.
+<br>
 2. View Responses: The chatbot will respond with advice based on the question asked.
 
 
